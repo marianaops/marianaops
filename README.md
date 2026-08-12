@@ -6,7 +6,7 @@
 
 
 </div>
-
+MARIANA AI CORE
 ---
 
 # 💻 AI TERMINAL
