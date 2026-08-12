@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🤖 S Y S T E M ・ O N L I N E
 
 <img src="imagem.jpeg">
 
@@ -38,11 +37,11 @@ STATUS: ONLINE 🚀
 ```javascript
 const Developer = {
 
-    name: "Alex Carter",
+    name: "Mariana Silva",
 
-    role: "Full Stack Developer",
+    course: "Ciências da computação",
 
-    country: "Earth 🌎",
+    linkedin: "https://www.linkedin.com/in/mariana-silva-b340b83b0?utm_source=share_via&utm_content=profile&utm_medium=member_android",
 
     focus: [
         "Frontend",
@@ -51,18 +50,11 @@ const Developer = {
         "Artificial Intelligence"
     ],
 
-    currentlyLearning: [
-        "Machine Learning",
-        "Microservices",
-        "System Design",
-        "Cloud Computing"
-    ],
-
     hobbies: [
-        "Coding",
-        "Music",
-        "Coffee",
-        "Technology"
+        "Programação",
+        "Música",
+        "Livros",
+        "Tecnologia"
     ],
 
     lifeGoal:
@@ -72,7 +64,7 @@ const Developer = {
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ languages
 
 <div align="center">
 
@@ -95,69 +87,6 @@ const Developer = {
 </div>
 
 ---
-
-# 🚀 Current Mission
-
-```bash
-> Initializing objectives...
-
-Frontend Development
-██████████████████████ 100%
-
-Backend Development
-█████████████████░░░░ 82%
-
-Artificial Intelligence
-██████████████░░░░░░ 68%
-
-Cloud Computing
-███████████░░░░░░░░░ 56%
-
-Open Source
-███████████████████░ 95%
-
-Status:
-Never Stop Learning 🚀
-```
-
----
-
-# 🛰 Developer Console
-
-```console
-$ whoami
-
-Alex Carter
-
-$ profession
-
-Full Stack Developer
-
-$ editor
-
-Visual Studio Code
-
-$ favorite_language
-
-TypeScript
-
-$ current_project
-
-Building Modern Web Applications
-
-$ coffee
-
-∞ Cups
-
-$ motivation
-
-while(alive){
-    learn();
-    build();
-    improve();
-}
-```
-
 ---
 
 # 🛠 Skills
