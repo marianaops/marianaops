@@ -2,7 +2,7 @@
 
 # 🤖 S Y S T E M ・ O N L I N E
 
-<img src="imagem.mari">
+<img src="imagem.jpeg">
 
 
 
