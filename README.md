@@ -13,7 +13,7 @@
 
 ```bash
 ╔════════════════════════════════════════════════════╗
-║             DEVELOPER CORE v3.0                   ║
+║                    Developer                       ║
 ╚════════════════════════════════════════════════════╝
 
 Loading modules...
@@ -99,66 +99,3 @@ const Developer = {
 | DevOps | Docker • Linux • GitHub Actions |
 | Design | Figma • UI/UX |
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🌟 Featured Projects
-
-| 🚀 Project | 💡 Description | ⚙️ Stack |
-|------------|---------------|----------|
-| Nova UI | Modern dashboard | React + TypeScript |
-| AI Studio | Artificial Intelligence Platform | Python |
-| CloudFlow | Cloud Management | Node.js |
-| Task Manager | Productivity App | React |
-| Portfolio | Personal Website | Next.js |
-| CommerceX | Ecommerce | Spring Boot |
-| DevHub | Social Platform | Full Stack |
-
----
