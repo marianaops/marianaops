@@ -2,9 +2,9 @@
 
 # 🤖 S Y S T E M ・ O N L I N E
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;INITIALIZING+DEVELOPER+PROFILE;WELCOME+TO+MY+GITHUB;BUILDING+THE+FUTURE+WITH+CODE" />
+<img src="imagem.mari">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:8B5CF6,100:00E5FF&text=AI%20Developer%20Core&fontAlign=50&fontAlignY=42&fontSize=50&fontColor=ffffff"/>
+
 
 </div>
 
